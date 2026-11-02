@@ -1,0 +1,25 @@
+# <Project name>
+
+<One sentence: what this project is and who uses it.>
+
+## Commands
+- Install: `<command>`
+- Run: `<command>`
+- Test: `<command>`
+- Lint/format: `<command>`
+
+## Layout
+- `<folder>/`: <what lives here>
+- `<folder>/`: <what lives here>
+
+## Rules
+- Work on a branch. Never push to the main branch unless I say so.
+- Never commit secrets (`.env`, keys, tokens). If one is needed and missing, stop and say so; do not invent values.
+- Ask before: deleting files, changing the database, adding a dependency, anything that costs money.
+- Keep changes small. Match the style of the surrounding code, including comment density and naming.
+- Don't add features I didn't ask for.
+
+## Definition of done
+- It runs, tests pass, lint is clean.
+- You tell me what you changed and what you did not check.
+- If something failed or was skipped, say so with the output.
